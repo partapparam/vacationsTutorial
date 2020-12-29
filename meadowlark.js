@@ -27,6 +27,17 @@ app.engine('hbs', handlebars({
 app.set('view engine', 'hbs')
 app.use(flashMiddleWare)
 
+//create the Auth middleware
+const createAuth = require('./lib/auth')
+const auth = createAuth(app, {
+    baseUrl: process.env.BASE_URL || '',
+    authProviders: credentials.authProviders,
+    failureRedirect: '/login',
+    successRedirect: '/account'
+})
+//initialize auth functions
+auth.init()
+auth.registerRoutes()
 //register the routes
 require('./routes')(app)
 

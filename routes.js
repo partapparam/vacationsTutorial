@@ -10,3 +10,4 @@ module.exports = app => {
     app.use(mainRoutes.notFound)
     app.use(mainRoutes.serverError)
 }
+
