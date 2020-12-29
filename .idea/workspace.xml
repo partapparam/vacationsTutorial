@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cd4ec4f-5948-462d-958b-b50761148f06" name="Default Changelist" comment="" />
+    <list default="true" id="8cd4ec4f-5948-462d-958b-b50761148f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/certificate.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/privkey.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.credentials.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/.credentials.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/key.pem" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +54,7 @@
       <updated>1609194073985</updated>
       <workItem from="1609194080017" duration="8316000" />
       <workItem from="1609214261102" duration="851000" />
-      <workItem from="1609278034639" duration="1796000" />
+      <workItem from="1609278034639" duration="2184000" />
     </task>
     <servers />
   </component>
