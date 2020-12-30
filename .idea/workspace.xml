@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cd4ec4f-5948-462d-958b-b50761148f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db-geocode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/geocode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/twitter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/login.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/handlers/mainRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/handlers/mainRoutes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/handlers/vacationRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/handlers/vacationRoutes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meadowlark.js" beforeDir="false" afterPath="$PROJECT_DIR$/meadowlark.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mongodb.js" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/account.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/account.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/layouts/main.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/main.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/subscribe.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/subscribe.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/vacations.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/vacations.hbs" afterDir="false" />
-    </list>
+    <list default="true" id="8cd4ec4f-5948-462d-958b-b50761148f06" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +48,7 @@
       <workItem from="1609194080017" duration="8316000" />
       <workItem from="1609214261102" duration="851000" />
       <workItem from="1609278034639" duration="7668000" />
-      <workItem from="1609298076409" duration="1479000" />
+      <workItem from="1609298076409" duration="1734000" />
     </task>
     <servers />
   </component>
