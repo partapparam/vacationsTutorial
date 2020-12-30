@@ -43,8 +43,8 @@ require('./routes')(app)
 
 //get SSL certs
 const httpsOptions = {
-    key: fs.readFileSync('key.pem'),
-    cert: fs.readFileSync('cert.pem')
+    key: fs.readFileSync('privkey.pem'),
+    cert: fs.readFileSync('certificate.pem')
 }
 const startServer = (port) => {
     https.createServer(httpsOptions, app).listen(port, () => console.log('listening'))

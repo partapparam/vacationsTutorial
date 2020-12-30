@@ -8,9 +8,10 @@ lerna-debug.log*
 
 #credentials
 *~
-key.pem
 certificate.pem
 privkey.pem
+*.pem
+
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json

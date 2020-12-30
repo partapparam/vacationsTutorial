@@ -32,7 +32,7 @@ module.exports = {
     getUserById: async (id) => User.findById(id),
     getUserByAuthId: async (authId) => User.findOne({authId}),
     addUser: async (data) => new User(data).save(),
-    addLocationData: async (sku, data) => {
+    addLocationDataBySku: async (sku, data) => {
         await Vacation.updateOne({ sku }, data)
     },
     close: () => db.close()
